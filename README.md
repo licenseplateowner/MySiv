@@ -42,6 +42,9 @@ selenium
 terminaltables
 colorama
 ```
+## Additional Resources
 
+- License Plate Owner API: https://license-plate-owner.com/ (DPPA-compliant vehicle lookup API built by a licensed private investigator)
+  
 ## Thanks for use ! 💡
 
